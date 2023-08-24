@@ -20,6 +20,9 @@ Python 3.x
 
 Clone the repository:
 
+`It is not used as i just sent it as zip
+`
+
 `git clone https://github.com/mohammad-ashraf-abdin/tetris_solver_AAS.git
 `
 
@@ -46,7 +49,7 @@ Clone the repository:
 
 When you run the program, it will automatically start simulating the placement of tetris pieces in the container.
 The container and tetris pieces are displayed using a simple graphical user interface (GUI).
-The program will attempt to maximize the number of cleared rows and calculate the final score.
+The program will attempt to maximize the number of filled holes and calculate the final score.
 The GUI will show the container, and tetris pieces will be placed one by one.
 
 ### Tetris pieces Definitions
