@@ -20,18 +20,17 @@ Python 3.x
 
 Clone the repository:
 
-`git clone https://github.com/yourusername/tetris-solver.git
+`git clone https://github.com/mohammad-ashraf-abdin/tetris_solver_AAS.git
 `
 
 #### Navigate to the project directory:
 
-`cd tetris-solver
+`cd tetris_solver_AAS
 `
 
+`pip install -r requirements.txt
+`
 #### Run the program:
-
-`cd apps
-`
 
 ##### Running console app :
 
